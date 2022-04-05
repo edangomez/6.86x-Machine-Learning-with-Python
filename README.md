@@ -6,4 +6,4 @@ Lecturers: [Regina Barzilay](https://www.edx.org/bio/regina-barzilay), [Tommi Ja
 
 This repository contains code from the projects of the course
 
-_Disclaimer: This repo includes code written by the course staff._
+_Disclaimer: This repo also includes code written by the course staff._
